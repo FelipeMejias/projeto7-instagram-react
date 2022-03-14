@@ -15,7 +15,8 @@ export default function ListaPosts(){
             foto:"dog.png",
             curtiuNome:"adorable_animals",
             curtiuImagem:"adorableanimals.png",
-            qtdCurtidas:99.159
+            qtdCurtidas:9.159
+        
         }
     ]
     return(
